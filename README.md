@@ -1,3 +1,6 @@
+![App Image](https://github.com/deepak-rawat-00/Simple-Feedback-Management-System-/assets/155062182/57e5625b-f992-4b1e-bf7c-84bb816657d6)
+
+
 Feedback Management System App
 This project is a full-stack web application for collecting and displaying user feedback.
 It consists of a Node.js backend using Express and TypeScript for the server, and a React frontend written in TypeScript.
